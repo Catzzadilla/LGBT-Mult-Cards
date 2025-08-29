@@ -7,6 +7,13 @@
 --- VERSION: 1.0.0
 --- DEPENDENCIES: [malverk]
 
+SMODS.Atlas({
+    key = "modicon",
+    path = "icon.png",
+    px = 34,
+    py = 34
+})
+
 AltTexture({
     key = 'lgbt_enhancers',
     set = 'Enhanced',
